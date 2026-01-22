@@ -13,8 +13,7 @@ Modern creative portfolio showcasing design and photography projects.
 https://oumayma-achouaf.github.io/creative-portfolio/
 
 ## 📂 GitHub Repository
-https://github.com/oumayma-achouaf/creative-portfolio
-
+https://github.com/oumayma-achouaf/creative-portfolio.git
 ## 🛠️ Built With
 - HTML5
 - CSS3
